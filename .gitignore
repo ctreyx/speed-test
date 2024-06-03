@@ -1,0 +1,21 @@
+
+# Editor directories and files
+.idea
+# .vscode
+
+# Package Manager
+node_modules
+.pnpm-debug.log*
+
+# System
+.DS_Store
+
+# Bundle
+/dist
+build
+dist-ssr
+*.local
+yarn-error.log
+.eslintcache
+/.husky
+/node_modules
